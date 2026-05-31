@@ -1,1 +1,65 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+	{
+		"key": "datr",
+		"value": "D58baknO9LCuF3ek5c-8219i",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "sb",
+		"value": "D58baouX9x_6VHfKFUKprRyR",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "wd",
+		"value": "1280x897",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61583975467826",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "fr",
+		"value": "1UXAaEVbNNMBasa4U.AWcpt0PBv0mUvYSIl3a1sCYp6sgUzSJKinU-l5xsRNszclTzJk8.BqG59P..AAA.0.0.BqG59P.AWesJFeV17Rxjc75Dh-6devSj1E",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "xs",
+		"value": "4%3AR-a7CIJA8_hmoQ%3A2%3A1780195146%3A-1%3A-1%3A%3AAcyAdm_aIhvefUmXy8J9eOMVTXCsHr28yHv2sUrH_A",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1780195151484%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-31T02:39:12.306Z",
+		"lastAccessed": "2026-05-31T02:39:12.306Z"
+	}
+]
